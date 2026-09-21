@@ -1,169 +1,163 @@
 [
   {
     "atoll_code": "HA",
-    "atoll_name": "Haa Alif Atoll",
+    "atoll_name": "Haa Alifu Atoll",
     "islands": [
-      "Ha. Baarah", "Ha. Dhidhdhoo", "Ha. Filladhoo", "Ha. Hoarafushi", 
-      "Ha. Ihavandhoo", "Ha. Kelaa", "Ha. Maarandhoo", "Ha. Mulhadhoo", 
-      "Ha. Muraidhoo", "Ha. Thakandhoo", "Ha. Thurakunu", "Ha. Uligamu", 
-      "Ha. Utheemu", "Ha. Vashafaru"
+      "HA. Thuraakunu", "HA. Uligan", "HA. Molhadhoo", "HA. Hoarafushi", "HA. Kelaa", 
+      "HA. Ihavandhoo", "HA. Vashafaru", "HA. Filladhoo", "HA. Dhidhdhoo", "HA. Maarandhoo", 
+      "HA. Thakandhoo", "HA. Muraidhoo", "HA. Utheemu", "HA. Baarah"
     ]
   },
   {
     "atoll_code": "HDh",
     "atoll_name": "Haa Dhaalu Atoll",
     "islands": [
-      "Hdh. Finey", "Hdh. Hanimaadhoo", "Hdh. Hirimaradhoo", "Hdh. Kulhudhuffushi", 
-      "Hdh. Kumundhoo", "Hdh. Kuribi", "Hdh. Makunudhoo", "Hdh. Naivaadhoo", 
-      "Hdh. Nellaidhoo", "Hdh. Neykurendhoo", "Hdh. Nolhivaram", "Hdh. Nolhivaranfaru", 
-      "Hdh. Vaikaradhoo"
+      "HDh. Hanimaadhoo", "HDh. Naivaadhoo", "HDh. Finey", "HDh. Nellaidhoo", "HDh. Nolhivaranfaru", 
+      "HDh. Kurin'bi", "HDh. Nolhivaram", "HDh. Kulhudhuffushi", "HDh. Kumundhoo", "HDh. Vaikaradhoo", 
+      "HDh. Neykurendhoo", "HDh. Makunudhoo"
     ]
   },
   {
     "atoll_code": "Sh",
     "atoll_name": "Shaviyani Atoll",
     "islands": [
-      "Sh. Bileffahi", "Sh. Feevah", "Sh. Feydhoo", "Sh. Foakaidhoo", 
-      "Sh. Funadhoo", "Sh. Goidhoo", "Sh. Kanditheemu", "Sh. Komandoo", 
-      "Sh. Lhaimagu", "Sh. Maaungoodhoo", "Sh. Maroshi", "Sh. Milandhoo", 
-      "Sh. Narudhoo", "Sh. Noomaraa"
+      "Sh. Kan'ditheemu", "Sh. Noomaraa", "Sh. Goidhoo", "Sh. Feydhoo", "Sh. Feevah", 
+      "Sh. Bileiyfahi", "Sh. Foakaidhoo", "Sh. Milandhoo", "Sh. Narudhoo", "Sh. Maroshi", 
+      "Sh. Lhaimagu", "Sh. Funadhoo", "Sh. Komandoo", "Sh. Maaun'goodhoo"
     ]
   },
   {
     "atoll_code": "N",
     "atoll_name": "Noonu Atoll",
     "islands": [
-      "N. Fohdhoo", "N. Holhudhoo", "N. Henbadhoo", "N. Kedhikolhudhoo", 
-      "N. Kudafari", "N. Landhoo", "N. Lhohi", "N. Maafaru", 
-      "N. Maalhendhoo", "N. Magoodhoo", "N. Manadhoo", "N. Miladhoo", "N. Velidhoo"
+      "N. Hen'badhoo", "N. Ken'dhikulhudhoo", "N. Maalhendhoo", "N. Kudafari", "N. Landhoo", 
+      "N. Maafaru", "N. Lhohí", "N. Miladhoo", "N. Magoodhoo", "N. Manadhoo", 
+      "N. Holhudhoo", "N. Fodhdhoo", "N. Velidhoo"
     ]
   },
   {
     "atoll_code": "R",
     "atoll_name": "Raa Atoll",
     "islands": [
-      "R. Alifushi", "R. Angolhitheemu", "R. Fainu", "R. Hulhudhuffaaru", 
-      "R. Inguraidhoo", "R. Innamaadhoo", "R. Kinolhas", "R. Maakurathu", 
-      "R. Maduvvari", "R. Meedhoo", "R. Rasmaadhoo", "R. Ungoofaaru", "R. Vaadhoo"
+      "R. Alifushi", "R. Vaadhoo", "R. Rasgetheemu", "R. An'golhitheemu", "R. Hulhudhuffaaru", 
+      "R. Un'goofaaru", "R. Dhuvaafaru", "R. Maakurathu", "R. Rasmaadhoo", "R. Innamaadhoo", 
+      "R. Maduvvari", "R. In'guraidhoo", "R. Fainu", "R. Meedhoo", "R. Kinolhas"
     ]
   },
   {
     "atoll_code": "B",
     "atoll_name": "Baa Atoll",
     "islands": [
-      "B. Dharavandhoo", "B. Dhonfanu", "B. Eydhafushi", "B. Fehendhoo", 
-      "B. Fulhadhoo", "B. Goidhoo", "B. Kendhoo", "B. Kihaadhoo", 
-      "B. Kudarikilu", "B. Maalhos", "B. Thulhaadhoo"
+      "B. Kudarikilu", "B. Kamadhoo", "B. Kendhoo", "B. Kihaadhoo", "B. Dhonfan", 
+      "B. Dharavandhoo", "B. Maalhos", "B. Eydhafushi", "B. Thulhaadhoo", "B. Hithaadhoo", 
+      "B. Fulhadhoo", "B. Fehendhoo", "B. Goidhoo"
     ]
   },
   {
     "atoll_code": "Lh",
     "atoll_name": "Lhaviyani Atoll",
     "islands": [
-      "Lh. Hinnavaru", "Lh. Kurendhoo", "Lh. Maafilaafushi", "Lh. Naifaru", "Lh. Olhuvelifushi"
+      "Lh. Hinnavaru", "Lh. Naifaru", "Lh. Kurendhoo", "Lh. Olhuvelifushi"
     ]
   },
   {
     "atoll_code": "K",
     "atoll_name": "Kaafu Atoll",
     "islands": [
-      "K. Dhiffushi", "K. Guraidhoo", "K. Himmafushi", "K. Huraa", 
-      "K. Hulhumale'", "K. Kaashidhoo", "K. Male'", "K. Maafushi", 
-      "K. Thulusdhoo", "K. Villimale'"
+      "K. Kaashidhoo", "K. Gaafaru", "K. Dhiffushi", "K. Thulusdhoo", "K. Huraa", 
+      "K. Hinmafushi", "K. Gulhi", "K. Maafushi", "K. Guraidhoo", "K. Male'", "K. Hulhumale'"
     ]
   },
   {
     "atoll_code": "AA",
     "atoll_name": "Alifu Alifu Atoll",
     "islands": [
-      "AA. Bodufulhudhoo", "AA. Feridhoo", "AA. Himandhoo", "AA. Maalhos", 
-      "AA. Mathiveri", "AA. Rasdhoo", "AA. Thoddoo", "AA. Ukulhas"
+      "AA. Thoddoo", "AA. Rasdhoo", "AA. Ukulhas", "AA. Mathiveri", "AA. Bodufolhudhoo", 
+      "AA. Feridhoo", "AA. Maalhos", "AA. Himandhoo"
     ]
   },
   {
     "atoll_code": "ADh",
     "atoll_name": "Alifu Dhaalu Atoll",
     "islands": [
-      "ADh. Dhangethi", "ADh. Dhigurah", "ADh. Dhidhdhoo", "ADh. Fenfushi", 
-      "ADh. Hagemeedhoo", "ADh. Kunburudhoo", "ADh. Mahibadhoo", "ADh. Mandhoo", "ADh. Omadhoo"
+      "ADh. Hangnaameedhoo", "ADh. Omadhoo", "ADh. Kun'burudhoo", "ADh. Mahibadhoo", "ADh. Mandhoo", 
+      "ADh. Dhan'gethi", "ADh. Dhigurah", "ADh. Fenfushi", "ADh. Dhidhdhoo", "ADh. Maamigili"
     ]
   },
   {
     "atoll_code": "V",
     "atoll_name": "Vaavu Atoll",
     "islands": [
-      "V. Felidhoo", "V. Fulidhoo", "V. Keyodhoo", "V. Rakeedhoo", "V. Thinadhoo"
+      "V. Fulidhoo", "V. Thinadhoo", "V. Felidhoo", "V. Keyodhoo", "V. Rakeedhoo"
     ]
   },
   {
     "atoll_code": "M",
     "atoll_name": "Meemu Atoll",
     "islands": [
-      "M. Dhiggaru", "M. Kolhufushi", "M. Maduvvari", "M. Mulah", 
-      "M. Muli", "M. Naalaafushi", "M. Raiymandhoo", "M. Veyvah"
+      "M. Dhiggaru", "M. Maduvvari", "M. Raiymandhoo", "M. Veyvah", "M. Mulah", 
+      "M. Muli", "M. Naalaafushi", "M. Kolhufushi"
     ]
   },
   {
     "atoll_code": "F",
     "atoll_name": "Faafu Atoll",
     "islands": [
-      "F. Bileddhoo", "F. Dharanboodhoo", "F. Feeali", "F. Magoodhoo", "F. Nilandhoo"
+      "F. Feeali", "F. Bileiydhoo", "F. Magoodhoo", "F. Dharan boodhoo", "F. Nilandhoo"
     ]
   },
   {
     "atoll_code": "Dh",
     "atoll_name": "Dhaalu Atoll",
     "islands": [
-      "Dh. Bandidhoo", "Dh. Gemendhoo", "Dh. Hulhudheli", "Dh. Kudahuvadhoo", 
-      "Dh. Meedhoo", "Dh. Rinbudhoo"
+      "Dh. Meedhoo", "Dh. Ban'didhoo", "Dh. Rin'budhoo", "Dh. Hulhudheli", "Dh. Maaen'boodhoo", "Dh. Kudahuvadhoo"
     ]
   },
   {
     "atoll_code": "Th",
     "atoll_name": "Thaa Atoll",
     "islands": [
-      "Th. Buruni", "Th. Dhidhoo", "Th.riminatingili", "Th. Guraidhoo", 
-      "Th. Hirilandhoo", "Th. Kandoodhoo", "Th. Kinbidhoo", "Th. Madifushi", 
-      "Th. Omadhoo", "Th. パandhoo", "Th. Veymandoo", "Th. Vandhoo"
+      "Th. Buruni", "Th. Vilufushi", "Th. Madifushi", "Th. Dhiyamigili", "Th. Guraidhoo", 
+      "Th. Kan'doodhoo", "Th. Vandhoo", "Th. Hirilandhoo", "Th. Gaadhiffushi", "Th. Thimarafushi", 
+      "Th. Veymandoo", "Th. Kin'bidhoo", "Th. Omadhoo"
     ]
   },
   {
     "atoll_code": "L",
     "atoll_name": "Laamu Atoll",
     "islands": [
-      "L. Dhanbidhoo", "L. Fonadhoo", "L. Gan", "L. Gaadhoo", 
-      "L. Isdhoo", "L. Kalaidhoo", "L. Kunahandhoo", "L. Maabaidhoo", 
-      "L. Maamendhoo", "L. Mundoo"
+      "L. Isdhoo", "L. Kalaidhoo", "L. Dhan'bidhoo", "L. Maabaidhoo", "L. Mundoo", 
+      "L. Gan", "L. Maavah", "L. Fonadhoo", "L. Maamendhoo", "L. Hithadhoo", "L. Kunahandhoo"
     ]
   },
   {
     "atoll_code": "GA",
     "atoll_name": "Gaafu Alifu Atoll",
     "islands": [
-      "GA. Dhaandhoo", "GA. Gemanafushi", "GA. Kanduhulhudhoo", "GA. Kolamaafushi", 
-      "GA. Kondey", "GA. Maamandhoo", "GA. Nilandhoo", "GA. Villingili"
+      "GA. Kolamaafushi", "GA. Vilin'gili", "GA. Maamendhoo", "GA. Nilandhoo", "GA. Dhaandhoo", 
+      "GA. Dhevvadhoo", "GA. Kon'dey", "GA. Gemanafushi", "GA. Kan'duhulhudhoo"
     ]
   },
   {
     "atoll_code": "GDh",
     "atoll_name": "Gaafu Dhaalu Atoll",
     "islands": [
-      "GDh. Faresmathoda", "GDh. Fiyoari", "GDh. Gahdhoo", "GDh. Hoandedhdhoo", 
-      "GDh. Madaveli", "GDh. Nadallaa", "GDh. Rathafandhoo", "GDh. Thinadhoo", "GDh. Vaadhoo"
+      "GDh. Thinadhoo", "GDh. Madaveli", "GDh. Hoan'dedhdhoo", "GDh. Nadellaa", "GDh. Gadhdhoo", 
+      "GDh. Rathafandhoo", "GDh. Vaadhoo", "GDh. Fiyoaree", "GDh. Faresmaathodaa"
     ]
   },
   {
     "atoll_code": "Gn",
-    "atoll_name": "Gnaviyani Atoll (Fuvahmulah)",
+    "atoll_name": "Gnaviyani Atoll",
     "islands": [
-      "Gn. Fuvahmulah"
+      "Gn. Fuvammulah"
     ]
   },
   {
     "atoll_code": "S",
-    "atoll_name": "Seenu Atoll (Addu City)",
+    "atoll_name": "Seenu Atoll",
     "islands": [
-      "S. Hithadhoo", "S. Hulhudhoo", "S. Maradhoo", "S. Maradhoo-Feydhoo", "S. Feydhoo", "S. Meedhoo"
+      "S. Addu City", "S. Hulhudhoo", "S. Meedhoo", "S. Hithadhoo", "S. Maradhoo", "S. Maradhoofeydhoo", "S. Feydhoo"
     ]
   }
 ]
