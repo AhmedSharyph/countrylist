@@ -1,5 +1,14 @@
 [
   {
+    "atoll_code": "Sh",
+    "atoll_name": "Shaviyani Atoll",
+    "islands": [
+      "Sh. Kan'ditheemu", "Sh. Noomaraa", "Sh. Goidhoo", "Sh. Feydhoo", "Sh. Feevah", 
+      "Sh. Bileiyfahi", "Sh. Foakaidhoo", "Sh. Milandhoo", "Sh. Narudhoo", "Sh. Maroshi", 
+      "Sh. Lhaimagu", "Sh. Funadhoo", "Sh. Komandoo", "Sh. Maaun'goodhoo"
+    ]
+  },
+  {
     "atoll_code": "HA",
     "atoll_name": "Haa Alifu Atoll",
     "islands": [
@@ -17,15 +26,7 @@
       "HDh. Neykurendhoo", "HDh. Makunudhoo"
     ]
   },
-  {
-    "atoll_code": "Sh",
-    "atoll_name": "Shaviyani Atoll",
-    "islands": [
-      "Sh. Kan'ditheemu", "Sh. Noomaraa", "Sh. Goidhoo", "Sh. Feydhoo", "Sh. Feevah", 
-      "Sh. Bileiyfahi", "Sh. Foakaidhoo", "Sh. Milandhoo", "Sh. Narudhoo", "Sh. Maroshi", 
-      "Sh. Lhaimagu", "Sh. Funadhoo", "Sh. Komandoo", "Sh. Maaun'goodhoo"
-    ]
-  },
+  
   {
     "atoll_code": "N",
     "atoll_name": "Noonu Atoll",
